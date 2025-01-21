@@ -8,10 +8,9 @@ This is a Java-based desktop application designed for secure text encryption and
 
 Encrypt any text securely with Base64 encoding.
 Decrypt previously encoded text with ease.
-Clean and modern user interface built with Java Swing.
+Clean user interface.
 Lightweight and easy to use.
 
 # Tech Stack: 
-Language: Java (Object-Oriented Programming)
 UI Framework: Java Swing
 Build Tool: IntelliJ IDEA
