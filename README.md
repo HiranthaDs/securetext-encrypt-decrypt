@@ -10,7 +10,3 @@ Encrypt any text securely with Base64 encoding.
 Decrypt previously encoded text with ease.
 Clean user interface.
 Lightweight and easy to use.
-
-# Tech Stack: 
-UI Framework: Java Swing
-Build Tool: IntelliJ IDEA
